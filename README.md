@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+Iniciando meus estudos em programação,
+espero que de tudo certo !
+
+Edmar Cunha
